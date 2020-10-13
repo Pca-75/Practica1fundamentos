@@ -1,4 +1,4 @@
-Nombre
-Edad
-Juegos actuales
-Juegos favoritos
+Nombre: Pablo Castro Alvarez
+Edad: 19 años 
+Juegos actuales:Among us
+Juegos favoritos:Fifa 20
